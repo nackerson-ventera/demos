@@ -35,8 +35,10 @@ relevant_documents = order_document_sections_by_query_similarity("Name a tenet o
 # Generate a prompt containing the relevant document sections concatenated together, along with your original query
 prompt = construct_prompt("Name a tenet of prioritization", document_embeddings, df)
 
-# Contributing
+```
+
+## Contributing
 If you would like to learn more about applying this prototype to meet your program needs or to contribute to this project, please reach out to Noble for more information.
 
-# Maintainers
+## Maintainers
 Noble Ackerson nackerson@ventera.com
