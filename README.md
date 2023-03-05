@@ -1,6 +1,6 @@
-# OpenAI API Document Embedding
+# [Azure OpenAI Services](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/) for AI-based Semantic Search
 
-## (Semantic Search & Q&A) prototype for Enterprise customers
+## Semantic Search & Q&A POC for Enterprise customers
 
 For internal purposes:This project aims to provide an alternative to full text and keyword search through a GenerativeAI approach. This implementation leverages OpenAI's Embeddings model `ada` to improve search with more contextual relevance, improved accuracy, and natural language intent understanding.
 
