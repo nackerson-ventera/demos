@@ -3,6 +3,7 @@
 **If you only need to pull data from GA Data API just focus on step 1 below. The rest of this Readme focuses on predictive lean analytics implementations:**
 
 1. **Export Google Analytics data:** First, you need to export your Google Analytics data. You can use the[Google Analytics Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v4) to fetch data, such as user sessions, page views, time on site, and other relevant metrics. Alternatively, you can use a tool like[Google Analytics Spreadsheet Add-on](https://developers.google.com/analytics/solutions/google-analytics-spreadsheet-add-on) to export the data to a spreadsheet.
+
     _Prerequisites:_
 
     1. Create a project in Google Cloud Platform.
